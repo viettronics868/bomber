@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BomActivity!</string>
+    <string name="app_name">bomber</string>
+
+    <string name="play">Play</string>
+    <string name="infor">Information</string>
+    <string name="exit">Exit</string>
+    
+    <string name="string_thoat">Bạn muốn thoát khỏi game?.</string>
+     <string name="string_gameover">Rất tiếc. Bạn đã thua.</string>
+    
+     <string name="string_thongtin">
+        NHÓM PHÁT TRIỂN \n\n
+		NAMDUNGPHUONG TEAM \n
+		Gmail: namdungphuongx2@gmail.com \n\n
+     </string>
+		
+     
+     <string name="string_chienthang">
+         Xin chúc mừng bạn.\n
+         Bạn chơi rất giỏi  \n
+         Chúc bạn luôn có thời gian vui vẻ với game bomber.\n\n
+         Xin chân thành cảm ơn.
+     </string>
+    
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
